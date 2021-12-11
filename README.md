@@ -52,31 +52,10 @@
     </head>
     <body>
         <div class="header">
-            ARTICLES GALAXY
+            <a href="mywebsite.html" >CLICK ME TO OPEN THE WEBSITE!!</a>
         </div>
 
-        <div class="menu">
-           <ul>
-               <li><a href="arabic.html" target="_blank">Arabic Articles</a></li>
-               <li><a href="english.html" target="_blank">English Articles</a></li>
-               <li><a href="video.html" target="_blank">Videos</a></li>
-           </ul>
-        </div>
-
-        <div class="content">
-            <h1>The Galaxy Of Articles, And More!</h1>
-            <img src="me.JPG" alt="GALAXY" width="200" height="300">
-            <br><br><br>
-            <p>
-               <q>The World Belongs To Those Who Read</q>
-            </p>
-            
-        </div>
         
-                <br><br><br><br><br>
-        <div class="fotter">
-            Made by The A+ Group &reg; 
-        </div>
     </body>
                                    
 </html>
